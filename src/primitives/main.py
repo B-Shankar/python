@@ -1,7 +1,7 @@
 student_count = 1000  # Integer
 rating = 4.4  # Floating Number
 is_published = False  # Boolean Value Allowed: (False, True)
-course_name = "Python Programming"
+course_name = "Python Programming"  # String
 
 # Python is case-sensitive language
 
